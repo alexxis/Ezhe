@@ -1,0 +1,14 @@
+c:\users\alex\documents\visual studio 2013\Projects\Ezhe\Ezhe\bin\Debug\Ezhe.exe.config
+c:\users\alex\documents\visual studio 2013\Projects\Ezhe\Ezhe\bin\Debug\Ezhe.exe
+c:\users\alex\documents\visual studio 2013\Projects\Ezhe\Ezhe\bin\Debug\Ezhe.pdb
+c:\users\alex\documents\visual studio 2013\Projects\Ezhe\Ezhe\obj\Debug\Ezhe.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2013\Projects\Ezhe\Ezhe\obj\Debug\Ezhe.Form1.resources
+c:\users\alex\documents\visual studio 2013\Projects\Ezhe\Ezhe\obj\Debug\Ezhe.Properties.Resources.resources
+c:\users\alex\documents\visual studio 2013\Projects\Ezhe\Ezhe\obj\Debug\Ezhe.csproj.GenerateResource.Cache
+c:\users\alex\documents\visual studio 2013\Projects\Ezhe\Ezhe\obj\Debug\Ezhe.exe
+c:\users\alex\documents\visual studio 2013\Projects\Ezhe\Ezhe\obj\Debug\Ezhe.pdb
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\Ezhe\Ezhe\obj\Debug\Ezhe.Form2.resources
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\Ezhe\Ezhe\bin\Debug\Ezhe.exe.manifest
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\Ezhe\Ezhe\bin\Debug\Ezhe.application
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\Ezhe\Ezhe\obj\Debug\Ezhe.exe.manifest
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\Ezhe\Ezhe\obj\Debug\Ezhe.application
