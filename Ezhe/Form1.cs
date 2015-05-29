@@ -34,7 +34,7 @@ namespace Ezhe
             string connString = String.Format("Server=127.0.0.1;Port=15432;UserId=ezheuser;Database=ezhedb;");
             NpgsqlConnection conn = new NpgsqlConnection(connString);
             conn.Open();
-            string sql = "SELECT * FROM ezhe;";
+            string sql = "SELECT * FROM events;";
             NpgsqlDataAdapter da = new NpgsqlDataAdapter(sql, conn);
             ds.Reset();
             da.Fill(ds);
@@ -49,7 +49,7 @@ namespace Ezhe
             string connString = String.Format("Server=127.0.0.1;Port=15432;UserId=ezheuser;Database=ezhedb;");
             NpgsqlConnection conn = new NpgsqlConnection(connString);
             conn.Open();
-            string sql = "SELECT * FROM ezhe;";
+            string sql = "SELECT * FROM events;";
             NpgsqlDataAdapter da = new NpgsqlDataAdapter(sql, conn);
             ds.Reset();
             da.Fill(ds);
