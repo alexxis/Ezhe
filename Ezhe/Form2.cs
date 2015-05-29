@@ -20,7 +20,8 @@ namespace Ezhe
 
         private void btnMaxId_Click(object sender, EventArgs e)
         {
-            string connString = String.Format("Server=192.168.1.13;Port=5432;UserId=diary;Database=ezhe;");
+            //string connString = String.Format("Server=192.168.1.13;Port=5432;UserId=diary;Database=ezhe;");
+            string connString = String.Format("Server=127.0.0.1;Port=15432;UserId=ezheuser;Database=ezhedb;");
             NpgsqlConnection conn = new NpgsqlConnection(connString);
             conn.Open();
             string sql = "SELECT MAX(id) FROM ezhe;";
@@ -37,7 +38,8 @@ namespace Ezhe
 
         private void btnSave_Click(object sender, EventArgs e)
         {
-            string connString = String.Format("Server=192.168.1.13;Port=5432;UserId=diary;Database=ezhe;");
+            //string connString = String.Format("Server=192.168.1.13;Port=5432;UserId=diary;Database=ezhe;");
+            string connString = String.Format("Server=127.0.0.1;Port=15432;UserId=ezheuser;Database=ezhedb;");
             NpgsqlConnection conn = new NpgsqlConnection(connString);
             conn.Open();
             //MessageBox.Show("Соединение с БД открыто");
